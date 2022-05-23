@@ -1,7 +1,7 @@
 {
-  "vendor": "vtex",
+  "vendor": "logicinfopartnerbr",
   "name": "countdown",
-  "version": "0.0.1",
+  "version": "0.0.12",
   "title": "Countdown",
   "description": "Countdown component",
   "defaultLocale": "pt-BR",
