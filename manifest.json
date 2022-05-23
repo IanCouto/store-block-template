@@ -1,7 +1,7 @@
 {
   "vendor": "logicinfopartnerbr",
   "name": "countdown",
-  "version": "0.0.12",
+  "version": "0.0.26",
   "title": "Countdown",
   "description": "Countdown component",
   "defaultLocale": "pt-BR",
