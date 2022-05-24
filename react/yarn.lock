@@ -3701,9 +3701,9 @@ lodash@^4.17.15, lodash@^4.17.19:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
   integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
 
-"logicinfopartnerbr.countdown@http://logicinfopartnerbr.vtexassets.com/_v/public/typings/v1/logicinfopartnerbr.countdown@0.0.23/public/@types/logicinfopartnerbr.countdown":
-  version "0.0.23"
-  resolved "http://logicinfopartnerbr.vtexassets.com/_v/public/typings/v1/logicinfopartnerbr.countdown@0.0.23/public/@types/logicinfopartnerbr.countdown#8658aa7b5d1cb15e5a3b428655d4194af0fe59d2"
+"logicinfopartnerbr.countdown@http://logicinfopartnerbr.vtexassets.com/_v/public/typings/v1/logicinfopartnerbr.countdown@0.2.0/public/@types/logicinfopartnerbr.countdown":
+  version "0.2.0"
+  resolved "http://logicinfopartnerbr.vtexassets.com/_v/public/typings/v1/logicinfopartnerbr.countdown@0.2.0/public/@types/logicinfopartnerbr.countdown#b8ebbe271b359c22f856d7a02b6d8642f58a36c8"
 
 lolex@^5.0.0:
   version "5.1.2"
@@ -5095,9 +5095,17 @@ verror@1.10.0:
   version "0.4.4"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@0.4.4/public/@types/vtex.css-handles#8c45c6decf9acd2b944e07261686decff93d6422"
 
+"vtex.product-context@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context":
+  version "0.10.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context#c5e2a97b404004681ee12f4fff7e6b62157786cc"
+
 "vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime":
   version "8.132.4"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime#66bb41bd4d342e37c9d85172aad5f7eefebfb6dc"
+
+"vtex.search-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.48.3/public/@types/vtex.search-graphql":
+  version "0.48.3"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.48.3/public/@types/vtex.search-graphql#5d782b45a688fd566bb6709c4e4620881e375d5e"
 
 "vtex.styleguide@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.styleguide@9.146.1/public/@types/vtex.styleguide":
   version "9.146.1"

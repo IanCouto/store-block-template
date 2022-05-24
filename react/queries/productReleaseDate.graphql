@@ -1,4 +1,4 @@
-query productReleaseDate($slug: String){
+query productReleaseDate($slug: String) {
   product(slug: $slug) {
     releaseDate
   }
